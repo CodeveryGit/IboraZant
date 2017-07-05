@@ -8,7 +8,7 @@ I used Advanced Custom Fields and Divi Builder plugins to make the site more fle
 The site shop is based on the WooCommerce platform. 
 
 
-### Technologies:
+### Technologies
 * WordPress
 * HTML
 * PHP
@@ -16,7 +16,7 @@ The site shop is based on the WooCommerce platform.
 * CSS, SASS
 * MySQL 
 
-### Plugin of WordPress
+### Plugins of WordPress
 * WooCommerce
 * Divi Builder
 * Advanced Custom Fields
@@ -24,7 +24,7 @@ The site shop is based on the WooCommerce platform.
 * Optin Monster API
 * Revolution Slider 
 
-### Code example
+### Code examples
 
 
 
